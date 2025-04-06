@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Model files and checkpoints
+models/
+*.h5
+
+# Data and output files
+data/
+outputs/
+
+# Logs and temporary files
+*.log
+*.csv
+
+# Streamlit cache
+.streamlit/
+
